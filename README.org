@@ -1,1 +1,5 @@
 * Advent of code solutions
+
+** 2025
+
+*** [[file:2025/01/main.py][01 - Python]]
