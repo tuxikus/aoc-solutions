@@ -3,8 +3,9 @@
 ** 2025
 
 *** Day 1 - Python 🐍
-- [[file:2025/01/main.py][main.py]] ✅
+- ✅ first half: [[file:2025/01/main.py][main.py]]
+- ✅ second half: [[file:2025/01/main.py][main.py]]
 
 *** Day 2 - Bash 💻
-- [[file:2025/02/main-a.bash][main-a.bash]] ✅
-- [[file:2025/02/main-b.bash][main-b.bash]] ❌
+- ✅ first half: [[file:2025/02/main-a.bash][main-a.bash]]
+- ❌ second half: [[file:2025/02/main-b.bash][main-b.bash]]
