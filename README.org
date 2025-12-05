@@ -17,3 +17,7 @@
 *** Day 4 - Rust 🦀
 - ✅ first half: [[file:2025/04/src/main.rs][main.rs]]
 - ✅ second half: [[file:2025/04/src/main.rs][main.rs]]
+
+*** Day 5 - Fish 🐟
+- ✅ first half: [[file:2025/05/main.fish][main.fish]]
+- ❌ second half: -
