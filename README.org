@@ -10,6 +10,10 @@
 - ✅ first half: [[file:2025/02/main-a.bash][main-a.bash]]
 - ❌ second half: [[file:2025/02/main-b.bash][main-b.bash]]
 
-*** Day 3 - SQL (PostgreSQL) 💽
+*** Day 3 - SQL (PostgreSQL) 🐘
 - ✅ first half: [[file:2025/03/main.sql][main.sql]]
 - ❌ second half: -
+
+*** Day 4 - Rust 🦀
+- ✅ first half: [[file:2025/04/src/main.rs][main.rs]]
+- ✅ second half: [[file:2025/04/src/main.rs][main.rs]]
