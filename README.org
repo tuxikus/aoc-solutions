@@ -21,3 +21,7 @@
 *** Day 5 - Fish 🐟
 - ✅ first half: [[file:2025/05/main.fish][main.fish]]
 - ❌ second half: -
+
+*** Day 6 - Emacs macro
+- ✅ first half: [[file:2025/06/macro.org][macro.org]]
+- ❌ second half: -
