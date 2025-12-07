@@ -22,6 +22,10 @@
 - ✅ first half: [[file:2025/05/main.fish][main.fish]]
 - ❌ second half: -
 
-*** Day 6 - Emacs macro
+*** Day 6 - Emacs macro ⌨️
 - ✅ first half: [[file:2025/06/macro.org][macro.org]]
+- ❌ second half: -
+
+*** Day 7 - OCaml 🐪
+- ✅ first half: [[file:2025/07/bin/main.ml][main.ml]]
 - ❌ second half: -
