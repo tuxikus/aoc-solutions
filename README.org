@@ -29,3 +29,7 @@
 *** Day 7 - OCaml 🐪
 - ✅ first half: [[file:2025/07/bin/main.ml][main.ml]]
 - ❌ second half: -
+
+*** Day 8 - Zig 🦎
+- ❌ first half: [[file:2025/08/main.zig][main.zig]]
+- ❌ second half: -
