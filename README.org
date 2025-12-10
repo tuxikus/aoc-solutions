@@ -33,3 +33,7 @@
 *** Day 8 - Zig 🦎
 - ❌ first half: [[file:2025/08/main.zig][main.zig]]
 - ❌ second half: -
+
+*** Day 9 - Ruby 💎
+- ✅ first half: [[file:2025/09/main.rb][main.rb]]
+- ❌ second half: -
