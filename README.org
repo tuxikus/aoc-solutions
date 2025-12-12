@@ -37,3 +37,9 @@
 *** Day 9 - Ruby 💎
 - ✅ first half: [[file:2025/09/main.rb][main.rb]]
 - ❌ second half: -
+
+*** Day 10 - Elixir 🧪
+⚠️ I got a working version for a single row with one permutation and then used AI to extend it to all rows with all permutations.
+
+- ✅ first half: [[file:2025/10/main.exs][main.exs]]
+- ❌ second half: -
