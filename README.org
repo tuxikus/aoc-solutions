@@ -43,3 +43,8 @@
 
 - ✅ first half: [[file:2025/10/main.exs][main.exs]]
 - ❌ second half: -
+
+*** Day 11 - Go 🐹
+
+- ✅ first half: [[file:2025/11/main.go][main.go]]
+- ❌ second half: -
