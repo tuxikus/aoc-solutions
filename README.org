@@ -48,3 +48,5 @@
 
 - ✅ first half: [[file:2025/11/main.go][main.go]]
 - ❌ second half: -
+
+*** Day 12 - ❌
